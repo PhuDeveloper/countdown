@@ -1,12 +1,11 @@
 {
-    "name": "fe-template",
+    "name": "_zingmp3",
     "version": "1.0.0",
     "description": "simple templete for fe-developers",
-    "author": "NHAT.BUI",
-    "url": "https://www.facebook.com/Cheatsomething",
+   
     "license": "MIT License",
     "keywords": [
-      "fe template"
+      "_zingmp3"
     ],
     "scripts": {
       "start": "index.html"
